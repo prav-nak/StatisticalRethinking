@@ -1,4 +1,9 @@
-down-the-rabbit-hole
+statistical-golems
+tools-for-golem-engineering
+bayesian-data-analysis
+model-comparison-and-prediction
+multilevel-models
+graphical-causal-models.
 the-pool-of-tears
 a-caucus-race-and-a-long-tale
 a-new-chapter
