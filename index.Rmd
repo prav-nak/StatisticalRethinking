@@ -30,8 +30,7 @@ each useful in a particular context. Viewed this way, statistics is neither math
 science, but rather a branch of engineering. And like engineering, a common set of design
 principles and constraints produces a great diversity of specialized applications.
 
-The classical procedures of introductory sta-
-tistics tend to be inflexible and fragile. By inflexible, I mean that they have very limited ways
+The classical procedures of introductory statistics tend to be inflexible and fragile. By inflexible, I mean that they have very limited ways
 to adapt to unique research contexts. By fragile, I mean that they fail in unpredictable ways
 when applied to new contexts. This matters, because at the boundaries of most sciences,
 it is hardly ever clear which procedure is appropriate. None of the traditional golems has
